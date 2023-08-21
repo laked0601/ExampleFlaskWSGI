@@ -1,9 +1,11 @@
 # ExampleFlaskWSGI
- A simple example implementation of a flask server with multiple python files
-Install Guide
-1. Clone or Download this repository
-2. On windows, run setup.bat
-3. Open a command line terminal and navigate to the folder you cloned / downloaded
-4. Type "./env/Scripts/python.exe" main.py 127.0.0.1 5000
-5. Open a browser and go to http://127.0.0.1:5000
-6. Modify the server as needed
+<p>A simple example implementation of a flask server with multiple python files</p>
+<h3>Install Guide</h3>
+<ol>
+    <li>Clone or Download this repository</li>
+    <li>On Windows, run <code>setup.bat</code></li>
+    <li>Open a command line terminal and navigate to the folder you cloned / downloaded</li>
+    <li>Type <code>"./env/Scripts/python.exe" main.py 127.0.0.1 5000</code></li>
+    <li>Open a browser and go to <a href="http://127.0.0.1:5000" target="_blank">http://127.0.0.1:5000</a></li>
+    <li>Modify the server as needed</li>
+</ol>
